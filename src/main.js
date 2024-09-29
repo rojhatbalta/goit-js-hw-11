@@ -4,7 +4,6 @@ import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
 const input = document.querySelector('.search-input');
-const searchBtn = document.querySelector('.search-btn');
 const gallery = document.getElementById('gallery');
 const form = document.querySelector('.search-form');
 
